@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+p {
+    margin: 2em;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+img {
+    margin: 0.5em;
+    border-radius: 70%;
+}
+
+img:hover {
+    box-shadow: 0 0 10px 3px rgba(1, 7, 24, 0.5);
+}
